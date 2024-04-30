@@ -1,4 +1,7 @@
 # Hi, I'm Wider.
 > I make little programs.
+> I make large programs.
+> Sometimes I make medium programs.
+> Sometimes I don't make programs.
 
-## Long live XFW https://github.com/Flipper-XFW/Xtreme-Firmware/
+Thank you for attending my ted talk.
